@@ -1,10 +1,11 @@
 import Image from "next/image"
+import Link from "next/link"
 import Navbar from "@/Components/Navbar"
 import Footers from "@/Components/Footers"
 import grayarrow from '../../../public/grayarrow.svg'
 import redjacket from '@/images/redbgwoman.png'
 import blackhoodiewoman from '@/images/blackhoodiewoman.png'
-import blackoutfitwoman from '@/images/blackoutfitwoman.png'
+// import blackoutfitwoman from '@/images/blackoutfitwoman.png'
 import bluejacketwoman from '@/images/bluejacketwoman.png'
 import blackbagwoman from '@/images/blackbagwoman.png'
 import jacketwoman from '@/images/jacketwoman.png'
@@ -34,7 +35,7 @@ const Team =()=>{
                   Innovation tailored for you
                 </h1>
                 <nav className="flex overflow-hidden gap-4 items-center py-2.5 mt-4 text-sm leading-6 whitespace-nowrap" aria-label="Breadcrumb">
-                  <a className="self-stretch my-auto text-slate-800" href="/">Home</a>
+                  <Link className="self-stretch my-auto text-slate-800" href="/" />Home
                   <Image
                     alt="Arrow icon"
                     className="object-contain shrink-0 self-stretch my-auto aspect-[0.56] w-[9px]"

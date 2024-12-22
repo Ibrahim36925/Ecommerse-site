@@ -35,9 +35,9 @@ const FeaturedDiv = () => {
               <div className="self-stretch my-auto">Trending</div>
               <div className="self-stretch my-auto">New</div>
             </div>
-            <div className="mt-2.5 text-xl leading-8 text-slate-800">Loudest à la Madison #1 (L'integral)</div>
+            <div className="mt-2.5 text-xl leading-8 text-slate-800">Loudest à la Madison #1 (L integral)</div>
             <div className="mt-2.5 text-sm leading-5">
-              We focus on ergonomics and meeting you where you work. It's only a keystroke away.
+              We focus on ergonomics and meeting you where you work. Its only a keystroke away.
             </div>
             <div className="flex overflow-hidden gap-10 justify-between items-center py-4 mt-2.5 w-full leading-none">
               <div className="flex overflow-hidden gap-1.5 items-center self-stretch my-auto">
@@ -73,9 +73,9 @@ const FeaturedDiv = () => {
               <div className="self-stretch my-auto">Trending</div>
               <div className="self-stretch my-auto">New</div>
             </div>
-            <div className="mt-2.5 text-xl leading-8 text-slate-800">Loudest à la Madison #1 (L'integral)</div>
+            <div className="mt-2.5 text-xl leading-8 text-slate-800">Loudest à la Madison #1 (L integral)</div>
             <div className="mt-2.5 text-sm leading-5">
-              We focus on ergonomics and meeting you where you work. It's only a keystroke away.
+              We focus on ergonomics and meeting you where you work. Its only a keystroke away.
             </div>
             <div className="flex overflow-hidden gap-10 justify-between items-center py-4 mt-2.5 w-full leading-none">
               <div className="flex overflow-hidden gap-1.5 items-center self-stretch my-auto">
@@ -111,9 +111,9 @@ const FeaturedDiv = () => {
               <div className="self-stretch my-auto">Trending</div>
               <div className="self-stretch my-auto">New</div>
             </div>
-            <div className="mt-2.5 text-xl leading-8 text-slate-800">Loudest à la Madison #1 (L'integral)</div>
+            <div className="mt-2.5 text-xl leading-8 text-slate-800">Loudest à la Madison #1 (L integral)</div>
             <div className="mt-2.5 text-sm leading-5">
-              We focus on ergonomics and meeting you where you work. It's only a keystroke away.
+              We focus on ergonomics and meeting you where you work. Its only a keystroke away.
             </div>
             <div className="flex overflow-hidden gap-10 justify-between items-center py-4 mt-2.5 w-full leading-none">
               <div className="flex overflow-hidden gap-1.5 items-center self-stretch my-auto">

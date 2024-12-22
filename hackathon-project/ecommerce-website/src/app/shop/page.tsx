@@ -25,6 +25,7 @@ import shop9 from '@/images/shop9.png'
 import shop10 from '@/images/shop10.png'
 import shop11 from '@/images/shop11.png'
 import shop12 from '@/images/shop12.png'
+import Link from "next/link"
 
 const Shop = () => {
   return (
@@ -39,7 +40,7 @@ const Shop = () => {
 
   <nav className="flex overflow-hidden items-end self-stretch my-auto text-sm tracking-wide leading-6" aria-label="Breadcrumb">
     <div className="flex overflow-hidden gap-4 items-center py-2.5">
-      <a className="self-stretch my-auto text-slate-800" href="/">Home</a>
+      <Link className="self-stretch my-auto text-slate-800" href="/" />Home
       <Image src={grayarrow} alt="grayArrow" className="object-contain shrink-0 self-stretch my-auto aspect-[0.56] w-[9px]" />
       <span className="self-stretch my-auto text-stone-300">Shop</span>
     </div>

@@ -1,5 +1,5 @@
 import { LuPhone } from "react-icons/lu"
-import { BiMessage } from "react-icons/bi"
+// import { BiMessage } from "react-icons/bi"
 import { TbMailOpenedFilled } from "react-icons/tb";
 import { IoLogoInstagram } from "react-icons/io"
 import { FiFacebook, FiTwitter, FiYoutube } from "react-icons/fi"
