@@ -177,8 +177,8 @@ const Contact = () => {
         <div className="flex overflow-hidden flex-col justify-center items-center py-12 sm:py-20">
           <div className="flex flex-col items-center max-w-full w-[607px]">
             <div className="flex overflow-hidden flex-col items-center">
-              <div className="text-base tracking-normal">WE Can't WAIT TO MEET YOU</div>
-              <h2 className="mt-4 text-4xl sm:text-6xl leading-none">Let's Talk</h2>
+              <div className="text-base tracking-normal">WE Cant WAIT TO MEET YOU</div>
+              <h2 className="mt-4 text-4xl sm:text-6xl leading-none">Lets Talk</h2>
               <div className="flex gap-2.5 items-start mt-4 text-sm leading-loose text-white">
                 <button
                   className="overflow-hidden px-8 sm:px-10 py-3 sm:py-4 bg-sky-500 rounded-md hover:bg-sky-600 transition-colors focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2"
