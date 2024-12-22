@@ -559,7 +559,7 @@ const About = () => {
       <div className="flex overflow-hidden flex-wrap gap-10 justify-between items-center max-w-full">
         <div className="flex overflow-hidden flex-col self-stretch my-auto min-w-[240px] w-[438px]">
           <div className="text-base tracking-normal">WORK WITH US</div>
-          <div className="mt-6 text-4xl leading-none">Now Let's grow Yours</div>
+          <div className="mt-6 text-4xl leading-none">Now Lets grow Yours</div>
           <div className="mt-6 leading-5">
             The gradual accumulation of information about atomic and small-scale behavior during the first quarter of the 20th
           </div>

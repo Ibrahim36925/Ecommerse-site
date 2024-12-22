@@ -10,8 +10,6 @@ import stripe from '@/images/stripe.png'
 import aws from '@/images/aws.png'
 import rightarrow from '../../../public/rightarrow.svg'
 import anotherdummyproduct from '@/images/anotherdummyproduct.png'
-import dummyproduct1 from '@/images/dummyproduct (1).png'
-import dummyproduct2 from '@/images/dummyproduct (2).png'
 const ProductDetails = () => {
   return (
     <div>
